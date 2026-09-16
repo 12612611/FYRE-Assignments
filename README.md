@@ -6,3 +6,5 @@ September 9: Basic print out and blinking
 
 September 14: LED blinking with switch 
 
+September 16: Moves servo arm, and measures ADC value and converts to voltage value, which is saved on CSV file 
+
