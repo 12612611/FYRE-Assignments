@@ -8,3 +8,9 @@ September 14: LED blinking with switch
 
 September 16: Moves servo arm, and measures ADC value and converts to voltage value, which is saved on CSV file 
 
+September 23: Started project prototype and implemented slide switch, photoresistor, and LED. 
+
+September 28: Implemented custom sensor into prototype 
+
+September 30: Updated prototype's custom sensor threshold  trigger value 
+
