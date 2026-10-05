@@ -7,7 +7,7 @@
 #                      LED continues flashing until the landslide wall isn't triggered. When it's not triggered, the 
 #                      servo turns back to 0 degree and the LED stops flashing. 
 # Data code was started: 9/23/2026
-# Date of last update: 9/28/2026
+# Date of last update: 9/30/2026
 # Explanation of AI use: AI was used to generate the code and assist with brainstorming. 
 
 from machine import Pin, PWM, ADC
@@ -92,7 +92,7 @@ while True:
         air_value / (3300 - air_value)
     )
 
-    # Below 85 ohms → blown on
+    # Below 50 ohms → blown on
     air_detected = air_resistance < air_threshold
 
     # -------------------------
