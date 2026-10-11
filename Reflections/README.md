@@ -1,7 +1,7 @@
-# Reflections
+# Sensing the World Reflections
 
-This folder contains reflections for the Sensing the World module.
+This folder contains three reflections covering the module's subject areas and final project.
 
-1. The first reflection reflects the material science portion of the module.
-2. The second reflection reflects the computer engineering portion of the module.
-3. The third reflection reflects on the final project.
+- `Reflection 1`: Material science portion of the module.
+- `Reflection 2`: Computer engineering portion of the module.
+- `Reflection 3`: Final project.
