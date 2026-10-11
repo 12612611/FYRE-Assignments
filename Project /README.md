@@ -6,3 +6,4 @@ The landslide wall project was developed over three days. Each day's file shows 
 - `Day2.py`: Edits the Day 1 version to add an air sensor and flash the LED while triggered.
 - `Day3.py`: Updates the Day 2 version to calculate air-sensor resistance for trigger detection.
 - `Presentation.pdf`: PDF of the project presentation slides.
+- `Project_Worksheet.pdf`: Completed brainstorming worksheet for the project.
