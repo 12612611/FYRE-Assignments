@@ -16,6 +16,8 @@ Seven programming assignments and supporting data files from the Sensing the Wor
 
 ### Program 7 Trial Data
 
+These CSV files contain Program 7 rain-drop sensor readings collected under different conditions, from a completely dry sensor to one covered with a wet wipe.
+
 - [Trial1.csv](Programming%20Activities/Trial1.csv): Program 7 rain-drop sensor data with the sensor completely dry.
 - [Trial2.csv](Programming%20Activities/Trial2.csv): Program 7 rain-drop sensor data with air blown onto the sensor.
 - [Trial3.csv](Programming%20Activities/Trial3.csv): Program 7 data with half of the sensor surface wiped with a wet wipe.
