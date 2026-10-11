@@ -10,6 +10,8 @@ This folder contains the programming assignments and Program 7's September 16 ra
 - `Program6.py`: Made September 16; controls a servo arm using a switch.
 - `Program7.py`: Made September 16; reads ADC values and saves voltage data to a CSV file.
 
+These CSV files contain Program 7 rain-drop sensor readings collected under different conditions, from a completely dry sensor to one covered with a wet wipe.
+
 - `Trial1.csv`: Program 7 data with the rain-drop sensor completely dry.
 - `Trial2.csv`: Program 7 data with air blown onto the rain-drop sensor.
 - `Trial3.csv`: Program 7 data with half of the rain-drop sensor surface wiped with a wet wipe.
