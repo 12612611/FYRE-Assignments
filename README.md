@@ -27,9 +27,9 @@ Seven programming assignments and supporting data files from the Sensing the Wor
 
 The landslide-wall prototype was developed over three days, with each day's file recording edits to the previous version. The [Project README](Project%20/README.md) describes the progression and prototype.
 
-- [Day1](Project%20/Day1): Initial prototype using a switch and photoresistor.
-- [Day2](Project%20/Day2): Revises Day 1 by adding an air sensor and flashing the LED when triggered.
-- [Day3](Project%20/Day3): Revises Day 2 to calculate air-sensor resistance for trigger detection.
+- [Day1.py](Project%20/Day1.py): Initial prototype using a switch and photoresistor.
+- [Day2.py](Project%20/Day2.py): Revises Day 1 by adding an air sensor and flashing the LED when triggered.
+- [Day3.py](Project%20/Day3.py): Revises Day 2 to calculate air-sensor resistance for trigger detection.
 - [Presentation.pdf](Project%20/Presentation.pdf): PDF of the project presentation slides.
 
 ![Landslide-wall prototype showing the breadboard control circuit, sensor wiring, and servo-mounted wall.](Project.png)
